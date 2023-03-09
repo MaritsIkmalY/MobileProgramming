@@ -2,6 +2,8 @@ import 'package:dart_basix/Tugas.dart';
 import 'package:flutter/material.dart';
 import 'package:dart_basix/latihan.dart';
 import 'package:dart_basix/percobaan.dart';
+import 'package:dart_basix/percobaan1.dart';
+import 'package:dart_basix/percobaan2.dart';
 
 void main() {
   runApp(const MyApp());
@@ -18,7 +20,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const Tugas(title: 'Minggu 2'),
+      home: const percobaan2(title: 'Minggu 2'),
     );
   }
 }

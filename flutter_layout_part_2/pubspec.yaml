@@ -81,6 +81,26 @@ flutter:
     - assets/images/suro_boyo3.jpeg
     - assets/images/suro_boyo4.jpg
     - assets/images/suro_boyo5.jpg
+    - assets/images/kebun_binatang.jpg
+    - assets/images/kebun_binatang2.jpg
+    - assets/images/kebun_binatang3.jpeg
+    - assets/images/kebun_binatang4.jpg
+    - assets/images/hutan_bambu2.jpg
+    - assets/images/hutan_bambu3.jpg
+    - assets/images/hutan_bambu4.jpg
+    - assets/images/hutan_bambu.jpg
+    - assets/images/masjid_al_akbar.jpg
+    - assets/images/masjid_al_akbar2.jpg
+    - assets/images/masjid_al_akbar3.jpg
+    - assets/images/masjid_al_akbar4.jpg
+    - assets/images/pantai_kenjeran.jpg
+    - assets/images/pantai_kenjeran4.jpeg
+    - assets/images/pantai_kenjeran2.jpg
+    - assets/images/pantai_kenjeran3.jpg
+    - assets/images/balai_kota.jpg
+    - assets/images/balai_kota2.jpg
+    - assets/images/balai_kota3.JPG
+    - assets/images/balai_kota4.jpeg
 
   # To add assets to your application, add an assets section, like this:
   # assets:
